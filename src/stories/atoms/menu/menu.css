@@ -1,0 +1,19 @@
+.storybook-menu {
+  min-width: 160px;
+  border: 0.3px solid #333;
+  padding: 8px 10px;
+  margin: 5px;
+  border-radius: 3px;
+}
+
+.storybook-menu:hover {
+  cursor: pointer;
+}
+
+.storybook-menu:active {
+  background-color: #efefef;
+}
+
+.storybook-menu-text {
+  border: none;
+}

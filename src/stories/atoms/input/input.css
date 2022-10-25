@@ -1,0 +1,20 @@
+.storybook-input {
+  border-radius: 4px;
+}
+
+.storybook-input--small {
+  width: 100px;
+  line-height: 20px;
+}
+
+.storybook-input--medium {
+  width: 160px;
+  line-height: 30px;
+  font-size: 15px;
+}
+
+.storybook-input--large {
+  width: 200px;
+  line-height: 40px;
+  font-size: 18px;
+}
